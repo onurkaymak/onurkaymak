@@ -10,7 +10,7 @@
   
    <br>
     <a href="https://github.com/onurkaymak/Flok" style="display:flex;justify-content:center;">
-        <img src="https://i.ibb.co/nfMH2jN/flok2.png" style="width:450px;height:100px;">
+        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onurkaymak)](https://github.com/onurkaymak/github-readme-stats)
     </a>
     <p align="center">
       ___________________________
