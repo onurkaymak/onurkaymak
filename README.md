@@ -3,9 +3,10 @@
 <p align="center">
    <br>
    
-        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onurkaymak)](https://github.com/onurkaymak/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onurkaymak)](https://github.com/onurkaymak/github-readme-stats)
    
-    </p>
+ </p>
+    
 
 <p align="center">
   <a href="mailto:onurkaymak@outlook.com"><img alt="gmail Badge" src="https://img.shields.io/badge/GMAIL-EA4335?logo=gmail&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
