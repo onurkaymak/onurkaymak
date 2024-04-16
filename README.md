@@ -1,6 +1,6 @@
 <div align="center">
     
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onurkaymak&langscount=8&bg_color: "fffefe")
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onurkaymak&langscount=8&bg_color: "ffffff00")
 </div>
 
 <p align="center">
