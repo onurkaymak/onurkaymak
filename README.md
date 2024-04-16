@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-<div style="text-align: center;">
+<div style="text-align: center;width: 100;">
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onurkaymak)](https://github.com/onurkaymak/github-readme-stats)
 
