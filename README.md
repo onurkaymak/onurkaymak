@@ -1,6 +1,6 @@
 <div align="center">
     
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onurkaymak&langscount=8&bg_color: "ffffff00")
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onurkaymak&layout=compact&theme=neon)](https://github.com/onurkaymak/github-readme-stats) &nbsp;&nbsp;&nbsp; [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=onurkaymak&theme=neon-dark&mode=weekly)](https://git.io/streak-stats)
 </div>
 
 <p align="center">
