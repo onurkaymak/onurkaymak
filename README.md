@@ -1,19 +1,10 @@
 ### Hello there 👋
 
-<div style="text-align: center;width: ;">
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onurkaymak)](https://github.com/onurkaymak/github-readme-stats)
-
-</div>
-
 <p align="center">
   
    <br>
-    <a href="https://github.com/onurkaymak/Flok" style="display:flex;justify-content:center;">
         [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onurkaymak)](https://github.com/onurkaymak/github-readme-stats)
-    </a>
     <p align="center">
-      ___________________________
     </p>
 
 <p align="center">
